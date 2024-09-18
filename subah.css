@@ -140,7 +140,7 @@
      background-color: red;
      position:absolute;
      right:50%;
-     top:35%;
+     top:42%;
      z-index:6;
      
      }
@@ -169,7 +169,7 @@
      z-index:6;
      }
      .first2{
-     transform:translateY(-500px) rotate(-45deg) translatex(-50px);
+     transform:translateY(-1000px) rotate(-45deg) translatex(-50px);
      z-index:10;
      transition:3s ease-out;
      }
@@ -178,7 +178,7 @@
      z-index:6;
      }
      .second2{
-     transform:translateY(-500px) rotate(-45deg) translatex(200px);;
+     transform:translateY(-1000px) rotate(-45deg) translatex(200px);;
      z-index:10;
      transition:3s ease-out;
      }
@@ -187,7 +187,7 @@
      transition:1s ease;
      }
      .third2{
-     transform:translateY(-500px) rotate(-45deg) translatex(-10px);
+     transform:translateY(-1000px) rotate(-45deg) translatex(-10px);
      z-index:10;
      transition:3s ease-out;
      }
