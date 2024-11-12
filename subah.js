@@ -35,9 +35,9 @@ let letterCap = document.querySelector("#letterCap2");
   open.removeEventListener("click", toggle);
   reset.addEventListener("click", res);
   };
-  document.addEventListener("DOMContentLoaded", toggle);
+
   open.addEventListener("click", toggle);
-  
+  document.addEventListener("DOMContentLoaded", toggle);
   function capLate() {
   letterCap.classList.toggle("letterCapSec");
   first.classList.toggle("first2");
